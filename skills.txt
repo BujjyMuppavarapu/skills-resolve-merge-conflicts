@@ -1,3 +1,4 @@
-team skills list"Python" 
+team skills list
+Python 
 
 FastAPI
